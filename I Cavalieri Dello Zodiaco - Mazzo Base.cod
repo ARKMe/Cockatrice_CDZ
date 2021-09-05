@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="[CDZ] Cosmo"/>
+        <card number="1" name="[CDZ] Anticipazione bronzea"/>
+        <card number="1" name="[CDZ] Coscienza bronzea"/>
+        <card number="1" name="[CDZ] Intervento di Athena"/>
+        <card number="1" name="[CDZ] Nuova chance"/>
+        <card number="1" name="[CDZ] Ultracosmo di Bronzo"/>
+        <card number="1" name="[CDZ] Il centro ricerche"/>
+        <card number="1" name="[CDZ] Nuova luxor, il centro"/>
+        <card number="1" name="[CDZ] Nuova luxor, il porto"/>
+        <card number="1" name="[CDZ] Nuova luxor, l'ospedale"/>
+        <card number="1" name="[CDZ] Palazzo dei tornei"/>
+        <card number="1" name="[CDZ] Palazzo di Lady Isabel"/>
+        <card number="1" name="[CDZ] Aioria"/>
+        <card number="3" name="[CDZ] Asher"/>
+        <card number="1" name="[CDZ] Castalia"/>
+        <card number="3" name="[CDZ] Geki"/>
+        <card number="1" name="[CDZ] Pegasus"/>
+        <card number="1" name="[CDZ] Aggiramento"/>
+        <card number="1" name="[CDZ] Attacco alle gambe"/>
+        <card number="1" name="[CDZ] Aura battagliera"/>
+        <card number="1" name="[CDZ] Aura potenziata"/>
+        <card number="1" name="[CDZ] Blocco a mano"/>
+        <card number="1" name="[CDZ] Blocco avanzato"/>
+        <card number="1" name="[CDZ] Blocco centrale"/>
+        <card number="1" name="[CDZ] Blocco con scudo"/>
+        <card number="1" name="[CDZ] Blocco laterale"/>
+        <card number="1" name="[CDZ] Calcio"/>
+        <card number="1" name="[CDZ] Calcio laterale"/>
+        <card number="1" name="[CDZ] Calcio rapido"/>
+        <card number="1" name="[CDZ] Cento jabs"/>
+        <card number="1" name="[CDZ] Colpo dell'unicorno"/>
+        <card number="1" name="[CDZ] Contrattacco"/>
+        <card number="1" name="[CDZ] Deviata di un pugno"/>
+        <card number="1" name="[CDZ] Difesa estrema"/>
+        <card number="1" name="[CDZ] Fulmine di Pegasus"/>
+        <card number="1" name="[CDZ] Inginocchiata a muro"/>
+        <card number="1" name="[CDZ] Lama psionica"/>
+        <card number="1" name="[CDZ] Movimenti rapidi"/>
+        <card number="1" name="[CDZ] Presa fulminea"/>
+        <card number="1" name="[CDZ] Pugno"/>
+        <card number="1" name="[CDZ] Pugno devastante"/>
+        <card number="1" name="[CDZ] Pugno fulmineo"/>
+        <card number="1" name="[CDZ] Sacro Leo"/>
+        <card number="1" name="[CDZ] Schermatura psionica"/>
+        <card number="1" name="[CDZ] Schivata in velocità"/>
+        <card number="1" name="[CDZ] Scudo dell'orsa"/>
+        <card number="1" name="[CDZ] Volo dell'aquila reale"/>
+    </zone>
+</cockatrice_deck>

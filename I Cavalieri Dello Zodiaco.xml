@@ -1,0 +1,4850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>base</name>
+      <longname>I Cavalieri dello Zodiaco - Gioco Base</longname>
+      <settype>Core</settype>
+    </set>
+    <set>
+      <name>oro</name>
+      <longname>I Cavalieri dello Zodiaco - Cavalieri d'Oro</longname>
+      <settype>Expansion</settype>
+    </set>
+    <set>
+      <name>promo</name>
+      <longname>I Cavalieri dello Zodiaco - Promo</longname>
+      <settype>Promo</settype>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[CDZ] Cosmo</name>
+      <prop>
+        <maintype>Cosmo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/cosmo.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Andromeda, ritorna!</name>
+      <text>1: Cerca nel tuo futuro 1 carta cavaliere Andromeda</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato32.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco con il disco</name>
+      <text>1 o Agape: + 4 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa12.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco del grifone</name>
+      <text>2 o Shadir: scarta 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab34.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco della volpe</name>
+      <text>1 o Benam: Consuma 1 carta cosmo all'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab35.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco a mano</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab37.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco avanzato</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/4</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab18.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco centrale</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/3</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab19.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco con scudo</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>1/2</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab26.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco laterale</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>0/3</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab27.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Bombardamento</name>
+      <text>1 o Ban: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab39.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Calcio</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab40.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Calcio laterale</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab28.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Cappa elettrica</name>
+      <text>1 o Eel Medusa: azzera l'attacco di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab41.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena del sole</name>
+      <text>1 o Reda: copia l'attacco di 1 tecnica di base del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab42.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena della luna</name>
+      <text>1 o Reda: copia l'attacco di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab43.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena di Albione</name>
+      <text>2 o Saltius: copia l'attacco di 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab44.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena di Cerbero</name>
+      <text>1 o Vesta: + 3 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa17.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena solare</name>
+      <text>1 o Albione: + 8 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa19.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena solare a difesa</name>
+      <text>1 o Albione: + 8 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa20.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Cento jabs</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab20.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Colpo fantasma</name>
+      <text>3 o Morgana: scarta 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Argento Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa23.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Contrattacco</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab29.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Coscienza argentea</name>
+      <text>1: Annulla 1 carta Fato d'argento dell'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato23.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Coscienza aurea</name>
+      <text>1: Annulla 1 carta Fato d'oro dell'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato15.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Crystal, ritorna!</name>
+      <text>1: Cerca nel tuo futuro 1 carta cavaliere Crystal</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato35.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Deviata di un pugno</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/5</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab21.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa con il disco</name>
+      <text>1 o Agape: + 4 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa26.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa d'acciaio</name>
+      <text>1 o Lear: + 2 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab48.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa del cobra</name>
+      <text>3 o Tisifone: copia la difesa di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/5</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa27.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa del serpente</name>
+      <text>2 o Serpente del mare: annulla 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab51.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa dell'ala nera</name>
+      <text>2 o Damian: + 8 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa28.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa della tigre</name>
+      <text>1 o Demetrius: + 3 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab50.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa estrema</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>2/5</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab13.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Esperienza argentea</name>
+      <text>2: Prendi dal tuo passato 1 Tecnica d'argento</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato24.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fantasmi dell'inferno</name>
+      <text>2 o Guilty: scarta 1 tecnica senza capaciyà speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/4</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa33.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fede aurea</name>
+      <text>1: Scarta 1 carta Fato d'oro dell'avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Oro Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato17.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Frusta di Nemes</name>
+      <text>1 o Nemes: copia l'attacco di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/6</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab22.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Frutto avvelenato</name>
+      <text>1 o Aspides: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab54.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fulmine difensivo</name>
+      <text>4 o Castalia: velocità</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/3</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa34.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Futuro favorevole</name>
+      <text>2: Pesca 4 carte dal tuo futuro</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato19.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Galoppo dell'unicorno</name>
+      <text>5 o Asher: velocità</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab30.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Getto devastante</name>
+      <text>1 o Moses: + 3 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/1</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa35.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Il cavaliere d'argento</name>
+      <text>1: puoi far intervenire in un combattimento 1 personaggio d'argento senza capacità speciali</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato25.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Il centro ricerche</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi04.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Inferno dell'Isola Nera</name>
+      <text>1 o Django: scarta 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab56.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Isola della Regina Nera</name>
+      <text>3: Prendi dal tuo passato 1 personaggio di bronzo con lo stesso nome di quelli nel presente del tuo avversario</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Luogo Argento Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi05.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Isola di Morgana</name>
+      <text>1: Puoi dare ad un personaggio in gioco con l'indicazione Saga di Morgana la capacità speciale di intervento.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Morgana</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi07.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Jamir</name>
+      <text>3: Inganno contro 1 personaggio avversario che attacca questo luogo se non difendi il luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Argento Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi03.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] La resa dei conti</name>
+      <text>1: se l'avversario ha in gioco più di 1 carta fato con la capacità speciale che contiene la parola Consuma sono tutte annullate</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato06.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Sesto Senso</name>
+      <text>1: puoi giocare 1 tecnica d'argento su Pegasus riducendo il costo di giocata di 2 punti Cosmo.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato40.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Limite di tempo</name>
+      <text>1: il costo di giocata dei luoghi questo turno è incrementato di 2 punti Cosmo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato27.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Lotta per la causa</name>
+      <text>1: puoi far intervenire in un combattimento 1 personaggio di bronzo senza capacità speciali</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato41.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Mille soli</name>
+      <text>1 o Nemes: azzera la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab23.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Mistero svelato</name>
+      <text>1: Annulla 1 carta fato dell'avversario che contiene la parola "rigenera" nella capacità speciale.</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato07.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Movimenti rapidi</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/3</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab12.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Muro di fiamme</name>
+      <text>1 o Fire: + 3 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab58.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nido della tarantola</name>
+      <text>1 o Aracne: + 4 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa40.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nuova luxor, il centro</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi08.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nuova luxor, il porto</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi09.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nuova luxor, l'ospedale</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi10.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Orfanotrofio</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi11.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Palazzo dei tornei</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi12.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Palazzo di Lady Isabel</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi13.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pensiero argenteo</name>
+      <text>1: Scarta 1 carta Fato d'argento dell'avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato28.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pensiero bronzeo</name>
+      <text>1: Scarta 1 carta Fato di bronzo dell'avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato43.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pensiero divino</name>
+      <text>1: Scarta 1 carta Fato divina dell'avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato10.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Phoenix, ritorna!</name>
+      <text>1: Cerca nel tuo futuro 1 carta cavaliere Phoenix</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato44.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Premonizione</name>
+      <text>1: Cerca nel tuo futuro 1 Tecnica di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato45.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Divino Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab60.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno devastante</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab24.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno Eracle</name>
+      <text>3 o Docrates: azzera la difesa di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab62.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno fulmineo</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/2</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab25.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno infuocato</name>
+      <text>1 o Django: cumulabile</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab63.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno maledetto</name>
+      <text>1 o Guilty: Inganna 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/0</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa42.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno rovente</name>
+      <text>1 o Fire: + 3 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab64.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Richiamo dei seguaci</name>
+      <text>1: Cerca nel tuo futuro 1 personaggio che non abbia capacità speciali</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato47.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scarica medusa</name>
+      <text>1 o Eel Medusa: azzera la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab65.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scatto della tigre</name>
+      <text>1 o Demetrius: + 3 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab66.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Schermatura psionica</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab07.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Schermo di aurora</name>
+      <text>2 o Maestro dei Ghiacci: + 6 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/4</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa43.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Serpente incantatore</name>
+      <text>1 o Morgana: copia l'attacco di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Tecnica Argento Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa47.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Siberia</name>
+      <text>1: + 2 attacco ai tuoi personaggi Crystal e Maestro dei Ghiacci se difendono questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Bronzo Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi14.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Sirio, ritorna!</name>
+      <text>1: Cerca nel tuo futuro 1 carta cavaliere Sirio</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato48.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Stallo</name>
+      <text>1: Consuma 1 carta Cosmo al tuo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato49.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Stretta del gigante</name>
+      <text>1 o Danes: + 2 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa48.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Stretta del serpente</name>
+      <text>2 o Serpente del mare: annulla 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab71.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Stretta dell'orsa</name>
+      <text>1 o Geki: + 2 attacco e + 2 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab70.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Stretta mortale</name>
+      <text>1 o Cassios: azzera la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab72.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Superiorità argentea</name>
+      <text>1: Togli dal gioco 1 carta Fato d'argento dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato29.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Superiorità aurea</name>
+      <text>1: Togli dal gioco 1 carta Fato d'oro dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato21.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Telecinesi</name>
+      <text>1 o Kiki: + 1 attacco e + 1 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab73.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Teletrasporto</name>
+      <text>1 o Kiki: puoi usare la capacità speciale inganno su questo personaggio</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab74.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Ululato del lupo</name>
+      <text>2 o Black il lupo: + 6 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab75.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Un aiuto insperato</name>
+      <text>3: Cerca 3 carte nel tuo passato e mescolale nel tuo futuro</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato52.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Urlo mortale</name>
+      <text>2 o Black il lupo: azzera le difese di 2 tecniche di bronzo senza capacità speciali a tua scelta del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab76.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vantaggio</name>
+      <text>1: Consuma 2 carte Cosmo al tuo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato30.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vittoria a caro prezzo</name>
+      <text>1: se tu ed il tuo avversario avete in gioco 1 personaggio con lo stesso nome lo dovete scartare entrambi</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato53.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vortice del delfino</name>
+      <text>1 o Delfino: + 2 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab77.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vortice difensivo</name>
+      <text>1 o Delfino: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab78.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Zanne avvelenate</name>
+      <text>1 o Aspides: Consuma 2 carte cosmo all'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab79.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Abbraccio dell'oriente</name>
+      <text>1 o Pavone: azzera la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa11.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Ali della fenice</name>
+      <text>3 o Phoenix: azzera la difesa di 2 tecniche di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab31.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Anelli del cigno</name>
+      <text>1 o Crystal: + 3 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab32.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Anticipazione aurea</name>
+      <text>4: Cerca nel tuo futuro 1 Tecnica d'oro</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato14.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Anticipazione divina</name>
+      <text>5: Cerca nel tuo futuro 1 Tecnica divina</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato01.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco del Gorgone</name>
+      <text>3 o Argo: annulla la capacità speciale di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa13.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco dell'inganno</name>
+      <text>2 o Asterione: cumulabile</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa14.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aurea divina</name>
+      <text>3 o Lady Isabel: annulla 1 tecnica del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa01.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aurora infuocata</name>
+      <text>3 o Babel: azzera l'attacco di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa15.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Barriera d'argento</name>
+      <text>2 o Eris: + 10 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa16.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco di Pegasus</name>
+      <text>1 o Pegasus: cumulabile e cerca nel tuo futuro un altro Blocco di Pegasus</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab38.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena di Andromeda</name>
+      <text>3 o Andromeda: copia la capacità speciale di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab45.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena di Cerbero </name>
+      <text>1 o Vesta: azzera l'attacco e la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa18.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Catena disposta a difesa</name>
+      <text>3 o Andromeda: copia la difesa di un personaggio di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab46.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Colpo dell'ala nera</name>
+      <text>2 o Damian: inganna 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa22.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Controllo telepatico</name>
+      <text>1 o Virnam: inganna 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/5</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa24.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Coscienza Cosmica</name>
+      <text>2: Annulla 1 carta Fato dell'avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato02.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa del leone</name>
+      <text>3 o Aioria: + 16 difesa</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa04.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa dell'inganno</name>
+      <text>2 o Asterione: cumulabile</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/5</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa29.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Dita d'argento</name>
+      <text>5 o Eris: velocità</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa30.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Esculas</name>
+      <text>2 o Argetti: azzera l'attacco di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/5</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa31.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Esperienza aurea</name>
+      <text>3: Prendi dal tuo passato 1 Tecnica d'oro</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Oro Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato16.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Esperienza divina</name>
+      <text>4: Prendi dal tuo passato 1 Tecnica divina</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato04.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fantasma della velocità</name>
+      <text>1 o Betelgeuse: azzera l'attacco di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/6</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa32.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fantasma diabolico</name>
+      <text>3 o Phoenix: inganna 1 personaggio di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab53.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Getto difensivo</name>
+      <text>3 o Moses: azzera l'attacco di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/3</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa36.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] I 5 picchi</name>
+      <text>3: + 9 difesa ai tuoi personaggi Dauko e Sirio se difendono questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi02.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Imperatore demone</name>
+      <text>4 o Arles: scarta 1 carta personaggio, non divino, del gruppo suo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa07.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Incarnazione divina</name>
+      <text>3: Cerca nel tuo futuro 1 personaggio divino</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato05.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Isola di Andromeda</name>
+      <text>2: +6 difesa ai tuoi personaggi Andromeda, Reda, Salitus, Nemes e Albione se difendono questo luogo.</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Luogo Argento Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi06.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Labirinto oscuro</name>
+      <text>2 o Dedalus: cumulabile</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa37.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Labirinto senza uscita</name>
+      <text>2 o Dedalus: cumulabile</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa38.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Lame di cristallo</name>
+      <text>1 o Dauko: + 2 difesa</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>0/8</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa05.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nettare di loto</name>
+      <text>2 o Loto: annulla la capacità speciale di 1 personaggio di bronzo o di argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa39.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Onde del mondo oscuro</name>
+      <text>2 o Death Mask: + 6 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>8/0</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa08.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pensiero Cosmico</name>
+      <text>3: Scarta 1 carta Fato dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato09.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Polvere di diamanti</name>
+      <text>1 o Crystal: azzera la difesa di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab59.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno ascensionale</name>
+      <text>3 o Orione: + 6 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa41.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo astrale</name>
+      <text>1 o Loto: puoi usare la capacità speciale inganno sul personaggio a cui assegni questa carta</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa44.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo astrale </name>
+      <text>1 o Pavone: azzera l'attacco di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa45.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo del drago</name>
+      <text>1 o Sirio: azzera l'attacco di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab67.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo della Medusa</name>
+      <text>3 o Argo: scarta 1 personaggio di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa46.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Sforzo estremo</name>
+      <text>3: Consuma 5 carte Cosmo al tuo avversario</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Fato Divino Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato11.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Strati di spirito</name>
+      <text>4 o Death Mask: togli dal gioco 1 carta personaggio di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa10.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Superiorità Cosmica</name>
+      <text>4: Togli dal gioco 1 carta Fato dell'avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato12.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Supertelecinesi</name>
+      <text>2 o Virnam: + 4 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa49.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Tela della tarantola</name>
+      <text>1 o Aracne: Consuma 1 carta cosmo dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa50.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vantaggio strategico</name>
+      <text>2: Fai scartare dalla mano dell'avversario 2 carte a caso</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato31.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vento gelido</name>
+      <text>3 o Maestro dei Ghiacci: azzera la difesa di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa51.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vortice di fiamma</name>
+      <text>3 o Babel: azzera la difesa di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa53.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Agape</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>5/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio06.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aioria</name>
+      <text>2: velocità</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>10/10</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio02.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Albione</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>3/6</pt>
+        <type>Personaggio Argento Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio07.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Andromeda</name>
+      <text>1: intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/5</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio28.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aracne</name>
+      <text>2: intervento</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio08.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Argetti</name>
+      <text>4: azzera l'attacco di 1 tecnica del gruppo suo avversario</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio09.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Argo</name>
+      <text>4: scarta 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>6/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio10.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Asher</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/2</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio29.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aspides</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio30.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Asterione</name>
+      <text>4: azzera la difesa di 1 tecnica del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio11.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Babel</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>7/2</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio12.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Ban</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio31.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Benam</name>
+      <text>1: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio32.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Betelgeuse</name>
+      <text>3: astuzia</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>3/7</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio13.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Black il lupo</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio33.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Cassios</name>
+      <text>1: + 1 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio34.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Castalia</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Personaggio Argento Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio14.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Crystal</name>
+      <text>1: intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio35.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Damian</name>
+      <text>1: scarta Lady Isabel dal gruppo suo avversario</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio15.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Dauko</name>
+      <text>1: annulla la capacità speciale di 1 tecnica del gruppo suo avversario</text>
+      <prop>
+        <cmc>7</cmc>
+        <pt>5/9</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio04.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Death Mask</name>
+      <text>2: velocità</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>13/7</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio05.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Dedalus</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>8/3</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio16.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Delfino</name>
+      <text>1: sfida 1 personaggio di bronzo in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio36.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Demetrius</name>
+      <text>1: + 3 attacco</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <type>Personaggio Bronzo Saga degli Adepti</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio37.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Django</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio38.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Docrates</name>
+      <text>3: sfida 1 personaggio divino in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio39.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Eel Medusa</name>
+      <text>3: + 6 attacco</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>1/2</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio40.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Eris</name>
+      <text>2: sfida 1 personaggio di bronzo in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>2/8</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio17.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fire</name>
+      <text>4: velocità</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio41.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Geki</name>
+      <text />
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio42.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Guilty</name>
+      <text>1: sfida 1 personaggio di bronzo in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>5/3</pt>
+        <type>Personaggio Argento Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio18.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Kiki</name>
+      <text>1: intervento</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <type>Personaggio Bronzo Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio43.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Lear</name>
+      <text>1: + 2 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio44.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Loto</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>4/6</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio19.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Maestro dei Ghiacci</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/5</pt>
+        <type>Personaggio Argento Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio20.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Morgana</name>
+      <text>4: annulla la capacità speciale di 1 tecnica del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <type>Personaggio Argento Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio21.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Moses</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>7/3</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio22.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nemes</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/2</pt>
+        <type>Personaggio Bronzo Saga degli Adepti</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio45.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Orione</name>
+      <text>1: + 2 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio23.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pavone</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio24.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pegasus</name>
+      <text>2: intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/3</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio46.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Phoenix</name>
+      <text>1: sfida 1 personaggio di bronzo in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio47.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Reda</name>
+      <text>1: + 3 attacco</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio48.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Saltius</name>
+      <text>1: + 3 difesa</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>1/2</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio49.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Serpente del mare</name>
+      <text />
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/2</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio50.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Shadir</name>
+      <text>1: + 1 attacco e + 1 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio51.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Sirio</name>
+      <text>2: intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/2</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio52.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Tisifone</name>
+      <text>1: + 3 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio25.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Vesta</name>
+      <text>1: + 2 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio26.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Virnam</name>
+      <text>1: + 2 difesa</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>3/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio27.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] 100 frecce</name>
+      <text>1 o Dauko: + 2 attacco</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>8/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa03.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Assalto difensivo</name>
+      <text>1 o Ban: + 2 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab33.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco del pesce spada</name>
+      <text>1 o Lear: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab36.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aura battagliera</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>3/6</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab01.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aura potenziata</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>2/7</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab03.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa del grifone</name>
+      <text>2 o Shadir: scarta 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab49.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Difesa improvvisa</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/9</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab05.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Drago nascente</name>
+      <text>2 o Sirio: + 6 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab52.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fedeli ad Athena</name>
+      <text>1: Se hai in gioco Athena cerca nel tuo futuro 1 cavaliere di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato37.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Insegnamenti di Dauko</name>
+      <text>1: Rigenera 2 carte Cosmo quando giochi Sirio o se già in gioco quando gli assegni 1 Tecnica</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato38.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Lady Isabel</name>
+      <text>3: se Lady Isabel attacca o difende 1 luogo puoi utilizzare questa capacità speciale e rigenerare 6 carte del tuo Cosmo</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>0/10</pt>
+        <type>Personaggio Divino Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio01.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pari opportunità</name>
+      <text>3: Copia la capacità speciale di 1 carta Fato in gioco del tuo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato08.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Prima esperienza</name>
+      <text>1: Prendi dal tuo passato 1 Tecnica di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato46.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scontro titanico</name>
+      <text>1: Se il tuo avversario ha in gioco 1 personaggio d'oro cerca nel tuo futuro 1 personaggio d'oro</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato20.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Spirito di Athena</name>
+      <text>4 o Lady Isabel: annulla la capacità speciale di 1 personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Divino Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa02.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Superiorità divina</name>
+      <text>1: Togli dal gioco 1 carta Fato divina dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato13.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Torneo galattico</name>
+      <text>1: + 2 attacco ai tuoi personaggi della Saga di Athena se difendono questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Divino Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi15.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Ultra spirito combattivo</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>1/8</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab09.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aggiramento</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>7/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab10.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Anticipazione bronzea</name>
+      <text>2: Cerca nel tuo futuro 1 Tecnica di bronzo</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato33.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco alle gambe</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>6/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab11.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Calcio rapido</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>5/2</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab16.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Colpo dell'unicorno</name>
+      <text>1 o Asher: + 1 attacco e + 1 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab47.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Coscienza bronzea</name>
+      <text>1: Annulla 1 carta Fato di bronzo dell'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato34.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fulmine di Pegasus</name>
+      <text>1 o Pegasus: cumulabile e cerca nel tuo futuro un altro Fulmine di Pegasus</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab55.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Inginocchiata a muro</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>0/7</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab14.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Intervento di Athena</name>
+      <text>1: Rigenera 2 carte Cosmo quando giochi Pegasus o se già in gioco quando gli assegni 1 Tecnica</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato39.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Lama psionica</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/3</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab06.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Nuova chance</name>
+      <text>1: Pesca 2 carte dal tuo futuro</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato42.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Presa fulminea</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>3/4</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab15.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Sacro Leo</name>
+      <text>3 o Aioria: + 16 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa09.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Schivata in velocità</name>
+      <text />
+      <prop>
+        <cmc>4</cmc>
+        <pt>1/6</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab17.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo dell'orsa</name>
+      <text>1 o Geki: copia la difesa di 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab68.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Ultracosmo di Bronzo</name>
+      <text>1: Rigenera 2 tue carte Cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato51.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Volo dell'aquila reale</name>
+      <text>1 o Castalia: + 2 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa52.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Anticipazione argentea</name>
+      <text>3: Cerca nel tuo futuro 1 Tecnica d'argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato22.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Arena del tempio</name>
+      <text>1: + 2 attacco ai tuoi personaggi Pegasus e Cassius e a tutti quelli con l'indicazione Saga di Arles se difendono questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Bronzo Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi01.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Arles</name>
+      <text>1: Consuma 2 carte Cosmo dell'avversario</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>10/10</pt>
+        <type>Personaggio Oro Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/personaggio03.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Aura manifesta</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>8/1</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab02.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Cobra incantatore</name>
+      <text>3 o Tisifone: copia l'attacco di 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa21.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Cornexolos</name>
+      <text>2 o Argetti: azzera la difesa di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa25.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Coscienza divina</name>
+      <text>1: Annulla 1 carta Fato divina dell'avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato03.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Deflagrazione dell'aura</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>9/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab04.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Esperienza bronzea</name>
+      <text>1: Prendi dal tuo passato 1 Tecnica di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato36.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Fedeli ad Arles</name>
+      <text>2: Se hai in gioco Arles cerca nel tuo futuro 1 personaggio d'argento</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato18.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Il dubbio</name>
+      <text>3: Fai scartare dal futuro dell'avversario 3 carte</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato26.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Illusione del demone</name>
+      <text>4 o Arles: inganna 1 personaggio, non divino, del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>3/0</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicadoa06.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Multipla difesa</name>
+      <text>1 o Saltius: copia la difesa di 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab57.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno distruttore</name>
+      <text>1 o Cassios: + 2 attacco</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab61.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo di eracle</name>
+      <text>1 o Docrates: + 4 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab69.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Superiorità bronzea</name>
+      <text>1: Togli dal gioco 1 carta Fato di bronzo dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/fato50.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Tempesta metallica</name>
+      <text />
+      <prop>
+        <cmc>5</cmc>
+        <pt>7/2</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab08.jpg">base</set>
+    </card>
+    <card>
+      <name>[CDZ] Addestramento base</name>
+      <text>1: cerca nel tuo futuro 1 carta della Saga degli Adepti</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Adepti</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/001mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Arles batte Ahena</name>
+      <text>1: Scarta 1 carta fato della Saga di Athena se hai Arles nel presente</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Oro Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/002mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Arles contro Athena</name>
+      <text>1: Annulla 1 carta fato della Saga di Athena se hai Arles nel presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/003mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Athena batte Arles</name>
+      <text>1: Scarta 1 carta fato della Saga di Arles se hai nel presente Lady Isabel</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/004mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Athena contro Arles</name>
+      <text>1: Annulla 1 carta fato della Saga di Arles se hai Lady Isabel nel presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/005mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Azione fulminea</name>
+      <text>1: Sposta 1 tuo personaggio da un gruppo ad un altro se ha la capacità speciale che contiene la parola "intervento"</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/006mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cavalieri del Mare</name>
+      <text>1: cerca nel tuo futuro 1 carta personaggio della Saga di Morgana se hai solo personaggi della Saga di Morgana nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/007mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cavalieri Neri</name>
+      <text>1: cerca nel tuo futuro 1 carta personaggio della Saga degli Oscuri se hai solo personaggi della Saga degli Oscuri nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Oscuri</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/008mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cavalieri rinnegati</name>
+      <text>1: Annulla 1 carta fato dell'avversario se hai in gioco solo personaggi della Saga degli Oscuri</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Oscuri</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/009mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Contrattempo d'argento</name>
+      <text>1: Annulla una sfida in cui sia coinvolto 1 personaggio d'argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/010mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Contrattempo di bronzo</name>
+      <text>1: Annulla una sfida in cui sia coinvolto 1 personaggio di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/011mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Contrattempo divino</name>
+      <text>1: Annulla una sfida in cui sia coinvolto 1 personaggio divino</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/012mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Contrattempo d'oro</name>
+      <text>1: Annulla una sfida in cui sia coinvolto 1 personaggio d'oro</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/013mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Dominio dello Zodiaco</name>
+      <text>1: cerca nel tuo futuro 1 luogo della Saga dello Zodiaco se hai almeno 1 personaggio della Saga dello Zodiaco nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/014mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Dominio di Morgana</name>
+      <text>1: cerca nel tuo futuro 1 luogo della Saga di Morgana se hai almeno 1 personaggio della Saga di Morgana nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/015mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Esplosione Bronzea</name>
+      <text>0: Scarta questa carta nella fase di combattimento per rigenerare 2 carte Cosmo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/016mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Sesto Senso </name>
+      <text>1: puoi giocare 1 tecnica d'argento su Phoenix riducendo il costo di giocata di 3 punti Cosmo.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/017mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Sesto Senso  </name>
+      <text>1: puoi giocare 1 tecnica d'argento su Andromeda riducendo il costo di giocata di 3 punti Cosmo.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/018mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Sesto Senso   </name>
+      <text>1: puoi giocare 1 tecnica d'argento su Sirio riducendo il costo di giocata di 3 punti Cosmo.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/019mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Sesto Senso    </name>
+      <text>1: Puoi giocare 1 tecnica d'argento su Crystal riducendo il costo di giocata di 3 punti Cosmo.</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/020mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Settimo Senso</name>
+      <text>1: Puoi giocare 1 tecnica d'oro su Pegasus riducendo il costo di giocata di 5 punti Cosmo.</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/021mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Settimo Senso </name>
+      <text>1: Puoi giocare 1 tecnica d'oro su Phoenix riducendo il costo di giocata di 5 punti Cosmo.</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/022mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Settimo Senso  </name>
+      <text>1: Puoi giocare 1 tecnica d'oro su Andromeda riducendo il costo di giocata di 5 punti Cosmo.</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/023mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Settimo Senso   </name>
+      <text>1: Puoi giocare 1 tecnica d'oro su Sirio riducendo il costo di giocata di 5 punti Cosmo.</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/024mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Limitato Settimo Senso    </name>
+      <text>1: Puoi giocare 1 tecnica d'oro su Crystal riducendo il costo di giocata di 5 punti Cosmo.</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/025mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Morgana all'attacco</name>
+      <text>1: +5 attacco a tutti i tuoi personaggi della Saga di Morgana nel presente se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/026mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Oro batte Oro</name>
+      <text>1: Scarta 1 carta fato della Saga dello Zodiaco se hai nel presente almeno 1 personaggio della Saga dello Zodiaco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/027mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Oro contro Oro</name>
+      <text>1: Annulla 1 carta fato della Saga dello Zodiaco se hai nel presente almeno 1 personaggio della Saga dello Zodiaco</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/028mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Phoenix all'attacco</name>
+      <text>1: +5 attacco a tutti i tuoi personaggi della Saga degli Oscuri nel presente se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Oscuri</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/029mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potere degli Oscuri</name>
+      <text>0: Scarta questa carta per azzerare il costo di giocata di 1 tua carta della Saga degli Oscuri se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Oscuri</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/030mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potere di bronzo</name>
+      <text>0: Scarta questa carta per azzerare il costo di giocata o l'attivazione di una capacità speciale di una 1 tua carta di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/031mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potere di Morgana</name>
+      <text>0: Scarta questa carta per azzerare il costo di giocata di una 1 tua carta della Saga di Morgana se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/032mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Regina degli inganni</name>
+      <text>1: annulla 1 carta fato dell'avversario se hai in gioco solo personaggi della Saga di Morgana</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/033mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Ritorno argenteo</name>
+      <text>1: cerca 1 carta d'argento nel tuo passato se hai solo carte d'argento nel tuo presente</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/034mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Ritorno aureo</name>
+      <text>1: cerca 1 carta d'oro nel tuo passato se hai solo carte d'oro nel tuo presente</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/035mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Ritorno bronzeo</name>
+      <text>1: cerca 1 carta di bronzo nel tuo passato se hai solo carte di bronzo nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/036mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Rivolta contro Arles</name>
+      <text>1: Un tuo personaggio della Saga dello Zodiaco può sfidare 1 personaggio della Saga di Arles</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/037mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sconfitta</name>
+      <text>1: togli dal passato dell'avversario 1 personaggio di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/038mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spirito argenteo</name>
+      <text>1: riduci, in questa fase, il costo di giocata di tutte le tue carte d'argento di 3 punti Cosmo se hai nel presente solo carte d'argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/039mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spirito bronzeo</name>
+      <text>0: riduci, in questa fase, il costo di giocata di tutte le tue carte di bronzo di 1 punto Cosmo se hai nel presente solo carte di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/040mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Stirpe d'argento</name>
+      <text>1: +5 difesa a tutti i tuoi personaggi d'argento nel tuo presente se hai solo carte d'argento in gioco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/041mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Stirpe di bronzo</name>
+      <text>1: +5 difesa a tutti i tuoi personaggi di bronzo nel tuo presente se hai solo carte di bronzo in gioco</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/042mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Stirpe oscura</name>
+      <text>1: +5 difesa a tutti i tuoi personaggi della Saga degli Oscuri nel presente se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga degli Oscuri</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/043mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Ade</name>
+      <text>1: tutte le carte dell'avversario che deve scartare alla fine del combattimento usate in questo luogo sono tolte dal gioco</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Divino Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/044mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aquarius</name>
+      <text>1: se Camus difende questo luogo puoi cercare nel tuo futuro 1 tecnica da assegnargli</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/045mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aries</name>
+      <text>2: se Mur difende questo luogo puoi rigenerare 5 carte Cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/046mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cancer</name>
+      <text>1: Dai la capacità speciale "astuzia" a Death Mask se difende questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/047mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Caricornus</name>
+      <text>1: Se Shura difende questo luogo le carte a lui assegnate non possono essere annullate o scartate o azzerate</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/048mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Foresta di Nuova Luxor</name>
+      <text />
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/049mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Gemini</name>
+      <text>1: Se Arles difendendo questo luogo viene vinto, evita di scartarlo alla fine del combattimento e ponilo nel presente nella zona riservata ai tuoi personaggi</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/050mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Le 12 Case dello Zodiaco</name>
+      <text>2: Se almeno 1 personaggio della Saga dello Zodiaco difende questo luogo puoi annullare una capacità seciale di 1 carta del gruppo suo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/051mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Leo</name>
+      <text>1: Dai la capacità speciale "potenza" a Aioria se difende questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/052mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Libra</name>
+      <text>0: Se Dauko difende questo luogo riduci il costo di giocata delle tecniche che gli assegni di 2 punti Cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/053mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Monte di Nuova Luxor</name>
+      <text>1: un tuo personaggio che difende questo luogo può sfidare 1 personaggio dell'avversario che attacca questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/054mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Pisces</name>
+      <text>3: Se Aphrodite difende questo luogo puoi ingannare 1 personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/055mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sagittarius</name>
+      <text>1: +5 Attacco e +5 Difesa a Micene se difende questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/056mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Scorpius</name>
+      <text>0: se Milo difende questo luogo puoi consumare 2 carte Cosmo al tuo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/057mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spiaggia di Nuova Luxor</name>
+      <text>1: un tuo personaggio d'argento che difende questo luogo può sfidare un personaggio dell'avversario che attacca questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/058mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Taurus</name>
+      <text>2: Dai la capacità speciale "velocità" a Aldebaran se difende questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/059mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Terra sacra di Grecia</name>
+      <text>1: annulla una sfida che coinvolga 1 tuo personaggio che difende questo luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/060mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Valle della Medusa</name>
+      <text>3: se Argo difende questo luogo il giocatore avversario deve giocare questa fase di combattimento a carte scoperte</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Luogo Argento Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/061mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Virgo</name>
+      <text>3: Se Shaka difende questo luogo l'avversario deve riprendere in mano 1 personaggio a sua scelta dal proprio gruppo d'attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/062mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Andromeda Nero</name>
+      <text>3: Cerca 1 tecnica della Saga degli Oscuri nel tuo futuro</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/4</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/063mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cigno Nero</name>
+      <text>3: Annulla 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/064mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Dragone Nero</name>
+      <text>3: Annulla 1 personaggio di bronzo o d'argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/065mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Guerriero Nero</name>
+      <text>Limitazione: a questo personaggio puoi assegnare solo tecniche di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/066mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Pegasus Nero</name>
+      <text>2: Intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/067mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Soldato del tempio</name>
+      <text>Limitazione: a questo personaggio puoi assegnare solo tecniche di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/068mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Accerchiamento</name>
+      <text>1 o Reda o Saltius: +6 attacco e +6 difesa se reda e Salitius sono nello stesso gruppo</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/069mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Animazione telepatica</name>
+      <text>2 o Virnam: +1 attacco e +1 difesa per ogni punto Cosmo che costa di giocata il luogo attaccato o difeso</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/070mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Artiglio della Tigre</name>
+      <text>2 o Demetrius: Azzera l'attacco e la difesa di 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/071mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Attacco di Cerbero</name>
+      <text>2 o Vesta: sfida un personaggio di bronzo o d'argento del gruppo suo avversario, puoi usare questa carta nella sfida</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/072mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Avvolto dalle fiamme</name>
+      <text>2 o Fire: +1 attacco per ogni personaggio presente nel gruppo suo avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/073mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco del serpente</name>
+      <text>2 o Serpente del mare: inganna 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/074mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco della notte</name>
+      <text>1 o Pegasus Nero: cumulabile</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/3</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/075mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cento Draghi</name>
+      <text>2 o Dauko: il valore di attacco di questa carta è uguale alla somma degli attacchi di tutte le carte personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/076mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Criniera dell'unicorno</name>
+      <text>2 o Asher: +3 attacco e +3 difesa se hai Lady Isabel nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/077mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Demone oscuro</name>
+      <text>3 o Arles: +1 attacco per ogni carta che scarti da tuo futuro</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/078mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Drago culminante</name>
+      <text>5 o Sirio: +20 attacco se nel gruppo avversario c'è almeno 1 personaggio d'oro</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/079mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Falce di ghiaccio</name>
+      <text>1 o Cigno Nero: +2 attacco per ogni tua carta Cosmo che consumi</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/080mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fenice della notte</name>
+      <text>1 o Phoenix: annulla 1 tecnica non divina dell'avversario se hai solo personaggi della Saga degli Oscuri nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/081mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fiore della perdizione</name>
+      <text>3 o Loto: +6 difesa</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/6</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/082mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fulmine nero</name>
+      <text>3 o Pegasus Nero: +5 attacco e +5 difesa se nel gruppo avversario c'è almeno 1 personaggio della Saga di Arles</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/083mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Inganno sublime</name>
+      <text>1 o Morgana: annulla 1 tecnica non divina dell'avversario se hai solo personaggi della Saga di Morgana nel tuo presente</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/084mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Lame di ghiaccio</name>
+      <text>5 o Maestro dei Ghiacci: azzera l'attacco di 1 tecnica di bronzo o di argento o d'oro del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/085mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Megatelecinesi</name>
+      <text>5 o Mur: +5 attacco e +5 difesa</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/086mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Muro di cristallo</name>
+      <text>3 o Mur: Se il personaggio a cui assegni questa carta viene vinto, evita di scartarlo alla fine del combattimento e ponilo nel presente nella zona riservata ai tuoi personaggi</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/087mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Nebulosa di Andromeda</name>
+      <text>2 o Andromeda: +10 difesa se nel gruppo avversario c'è almeno un personaggio di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/088mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Onde di Scorpio</name>
+      <text>2 o Milo: annulla la capacità speciale del luogo non divino che stai attaccando</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/089mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potenza del Toro</name>
+      <text>5 o Aldebaran: azzera l'attacco di tutte le carte personaggio non divino del gruppo suo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/2</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/090mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Pugno del gigante</name>
+      <text>2 o Cassios: Scarta 1 carta a caso di mano al tuo avversario: se è 1 tecnica puoi fargli scartare un'altra carta e continuare, a farlo scartare, finche peschi tecniche</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/091mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Raggio di Loto</name>
+      <text>3 o Loto: +6 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>6/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/092mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Resa del demone</name>
+      <text>5 o Shaka: Annulla e azzera tutte le tecniche non divine del gruppo suo avversario se hai più carte in mano dell'altro giocatore</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/093mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sacro Acquarius</name>
+      <text>5 o Camus: velocità</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>10/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/094mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sacro Cancer</name>
+      <text>5 o Death Mask: se questa carta viene giocata in una sfida togli dal gioco il personaggio avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>10/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/095mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sfera di energia</name>
+      <text>4 o Micene o Pegasus: +10 difesa. +15 difesa a Lady isabel se è nello stesso gruppo</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/096mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Smaterializzazione</name>
+      <text>3 o Pavone o Loto: puoi spostare il personaggio a cui assegni questa carta da un gruppo ad un altro o ingannarlo</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>2/4</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/097mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spaccamarmo</name>
+      <text>2 o Eris: +10 attacco</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/098mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Tentacoli della medusa</name>
+      <text>1 o Eel Medusa: scarta 1 tecnica di bronzo senza capacità speciale del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/099mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Zanne Nere</name>
+      <text>3 o Andromeda nero: +5 attacco e +5 difesa se nel gruppo avversario c'è almeno 1 personaggio della Saga di Athena</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/100mc.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Addestramento limitato</name>
+      <text>2: Scarta 1 carta fato della Saga degli Adepti dell'avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Bronzo Saga degli Adepti</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr001.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Anticosmo divino</name>
+      <text>0: Annulla 1 carta nel presente dell'avversario che rigenera o consuma o vale Cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr002.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Arles all'attacco</name>
+      <text>1: +3 attacco a tutti i tuoi personaggi della Saga di Arles nel tuo presente se hai solo carte di questa saga in gioco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr003.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Athena all'attacco</name>
+      <text>1: +5 attacco a tutti i tuoi personaggi della Saga di Athena nel tuo presente se hai solo carte di questa saga in gioco</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr004.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cosmo argenteo</name>
+      <text>0: vale 1 cosmo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr005.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cosmo aureo</name>
+      <text>0: vale 1 cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr006.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cosmo bronzeo</name>
+      <text>0: vale 1 cosmo</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr007.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Domani argenteo</name>
+      <text>1: cerca 1 carta d'argento nel tuo futuro se nel tuo presente hai solo carte d'argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr008.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Domani aureo</name>
+      <text>1: cerca 1 carta d'oro nel tuo futuro se nel tuo presente hai solo carte d'oro</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr009.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Domani bronzeo</name>
+      <text>1: cerca 1 carta di bronzo nel tuo futuro se nel tuo presente hai solo carte di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr010.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Esplosione argentea</name>
+      <text>0: Scarta questa carta nella fase di combattimento per rigenerare 3 carte Cosmo</text>
+      <prop>
+        <cmc>2</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr011.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Esplosione aurea</name>
+      <text>0: Scarta questa carta nella fase di combattimento per rigenerare 5 carte Cosmo</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr012.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fine dell'esilio</name>
+      <text>1: Cerca 1 carta della Saga di Morgana nel tuo futuro se hai solo personaggi di questa saga in gioco</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Morgana</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr013.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potere d'argento</name>
+      <text>0: Scarta questa carta per azzerare il costo di giocata o l'attivazione di una capacità speciale di una 1 tua carta d'argento</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Argento Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr014.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Potere d'oro</name>
+      <text>0: Scarta questa carta per azzerare il costo di giocata o l'attivazione di una capacità speciale di una 1 tua carta d'oro</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr015.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spirito aureo</name>
+      <text>1: riduci, in questa fase, il costo di giocata di tutte le tue carte d'oro di 5 punti Cosmo se hai nel presente solo carte d'oro</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr016.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Stirpe d'oro</name>
+      <text>1: +5 Difesa a tutti i tuoi personaggi d'oro in gioco se hai solo carte d'oro in gioco</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr017.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Velocità della luce</name>
+      <text>1: puoi spostare 1 tuo personaggio della Saga dello Zodiaco da un gruppo ad un altro o farlo intervenire o ingannarlo</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Fato Oro Saga dello Zodiaco</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr018.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Altra dimensione</name>
+      <text>3: dopo l'attivazione di questa capacità speciale l'avversario non può più assegnare carte ai propri personaggi che attaccano questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr019.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Castello di Morgana</name>
+      <text>3: Inganna tutti i personaggi di bronzo che attaccano questo luogo se lo difendi con almeno 1 personaggio della Saga di Morgana</text>
+      <prop>
+        <cmc>4</cmc>
+        <type>Luogo Argento Saga di Morgana</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr020.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fossa dei Morti</name>
+      <text>5: +20 attacco a 1 tuo personaggio e +10 attacco a 1 personaggio dell' avversario che combattono in questo luogo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr021.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Grande Tempio</name>
+      <text>3: Annulla la capacità speciale di 1 carta del gruppo che attacca questo luogo se questa non appartiene alla Saga di Arles</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr022.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Piramide di ghiaccio</name>
+      <text>0: vale 1 Cosmo se hai solo carte della Saga di Arles nel tuo presente</text>
+      <prop>
+        <cmc>6</cmc>
+        <type>Luogo Argento Saga di Arles</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr023.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Scalinata del Tempio</name>
+      <text>0: Rigenera 3 carte Cosmo se questo luogo viene attaccato</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Oro Saga dello Zodiaco</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr024.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Statua di Athena</name>
+      <text>4: se hai Lady Isabel in gioco annulla 1 capacità speciale, a tua scelta, nel presente dell'avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Luogo Divino Saga di Athena</type>
+        <maintype>Luogo</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr025.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Abbandono dell'oriente</name>
+      <text>5 o Shaka: L'avversario non può giocare altre tecniche nel gruppo avversario del personaggio a cui assegni questa carta</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr026.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Artiglio della strega</name>
+      <text>3 o Morgana: copia la capacità speciale di 1 tecnica non divina del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>1/1</pt>
+        <type>Tecnica Argento Saga di Morgana</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr027.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aurea di Eracle</name>
+      <text>1 o Docrates: scarta tutti i personaggi del gruppo avversario che hanno 1 di difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr028.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aurea di Leo</name>
+      <text>5 o Aioria: inganna tutti i personaggi di bronzo e d'argento del gruppo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr029.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aurora del Nord</name>
+      <text>4 o Crystal: annulla la capacità speciale di 1 personaggio non divino</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr030.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Bara di ghiaccio</name>
+      <text>5 o Camus: annulla e "azzera l'attacco" di 1 personaggio non divino e di tutte le tecniche a lui assegnate nel gruppo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr031.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Blocco delle rose</name>
+      <text>3 o Aphrodite: per ogni carta che scarti dalla tua mano l'avversario deve scartarne una dalla sua</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/3</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr032.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cuspide scarlatta</name>
+      <text>3 o Milo: +5 attacco per ogni punto Cosmo di costo di giocata del luogo attaccato o difeso dal personaggio a cui assegni questa carta</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr033.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Demone gorgone</name>
+      <text>3 o Argo: scarta 1 tecnica di bronzo o di argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr034.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Excalibur</name>
+      <text>2 o Shura: +5 attacco per ogni tua carta cosmo che consumi</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr035.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Freccia di Sagitter</name>
+      <text>4 o Micene o Pegasus: togli dal futuro dell'avversario un numero di carte pari al valore di attacco della carta personaggio a cui assegni questa carta</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr036.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Fuoco infernale</name>
+      <text>4 o Phoenix: inganna tutti i personaggi di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr037.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Grande corno</name>
+      <text>5 o Aldebaran: +20 attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr038.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Nebulosa nera</name>
+      <text>1 o Andromeda Nero: +1 difesa per ogni personaggio presente nel gruppo suo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr039.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Nebulosa presepe</name>
+      <text>1 o Death Mask: per ogni carta Cosmo che decidi di consumare l'avversario deve consumarne una delle sue</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/4</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr040.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Pietra piroettante</name>
+      <text>2 o Shura: +5 difesa per ogni tua carta cosmo che consumi</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr041.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Plasma di Leo</name>
+      <text>3 o Aioria: togli dal gioco tutti i personaggi di bronzo del gruppo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/0</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr042.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Re diavolo</name>
+      <text>4 o Arles: Velocità</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>6/4</pt>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr043.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Rosa rossa</name>
+      <text>3 o Aphrodite: Il giocatore avversario deve raddoppiare il costo di giocata di tutte le tecniche che giocherà nel gruppo avversario</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>3/3</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr044.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Sacro Pegasus</name>
+      <text>4 o Pegasus: annulla la capacità speciale di una tecnica non divina</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga di Athena</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr045.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Scudo dell'oscurità</name>
+      <text>1 o Dragone Nero: +2 difesa per ogni tua carta Cosmo che consumi</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/2</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr046.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Spada di Libra</name>
+      <text>3 o Dauko o Sirio: +1 attacco e +1 difesa per ogni punto Cosmo di costo di giocata di 1 personaggio a tua scelta del gruppo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>7/3</pt>
+        <type>Tecnica Oro Saga dello Zodiaco</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr047.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Tempesta nera</name>
+      <text>1 o Cigno Nero: consuma 1 carta Cosmo al tuo avversario</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>2/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr048.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Urlo del drago nero</name>
+      <text>1 o Dragone Nero: Se hai solo personaggi della Saga degli Oscuri in gioco, scarta il tuo tuo personaggio a cui assegni questa carta, per rigenerare fino a 6 carte Cosmo</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/0</pt>
+        <type>Tecnica Bronzo Saga degli Oscuri</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr049.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Volo del corvo</name>
+      <text>3 o Damian: inganna 1 personaggio di bronzo dell'avversario anche se combatte in un gruppo di un altro luogo</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/0</pt>
+        <type>Tecnica Argento Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr050.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aioria, leone</name>
+      <text>1: intervento</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>11/11</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr001.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aldebaran, toro</name>
+      <text>5: +10 attacco e + 10 difesa</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>12/8</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr002.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aphrodite, pesci</name>
+      <text>1: se Aphrodite attacca o difende 1 luogo puoi scartare 3 carte a caso di mano all'avversario</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>11/9</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr003.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Arles, gemelli</name>
+      <text>1: se Arles attacca o difende 1 luogo puoi rigenerare 2 carte Cosmo</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>10/10</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr004.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Camus, acquario</name>
+      <text>5: inganna 1 personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>9/11</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr005.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Dauko, bilancia</name>
+      <text>3: velocità</text>
+      <prop>
+        <cmc>8</cmc>
+        <pt>7/9</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr006.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Death Mask, cancro</name>
+      <text>5: azzera l'attacco e la difesa di tutte le tecniche del gruppo suo avversario</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>13/7</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr007.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Micene, sagittario</name>
+      <text>2: potenza</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>9/11</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr008.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Milo, scorpione</name>
+      <text>5: scarta il luogo non divino da lui attaccato</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>14/6</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr009.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Mur, ariete</name>
+      <text>1: prendi 5 carte dal tuo passato e rimescolale nel tuo futuro</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>8/12</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr010.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Shaka, vergine</name>
+      <text>3: Annulla la capacità speciale di 1 personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>11/9</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr011.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Shura, capricorno</name>
+      <text>2: astuzia</text>
+      <prop>
+        <cmc>10</cmc>
+        <pt>10/10</pt>
+        <type>Personaggio Oro Saga dello Zodiaco</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr012.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Castalia </name>
+      <text>2: +2 attacco e +2 difesa</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>3/6</pt>
+        <type>Personaggio Argento Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr013.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Nemes </name>
+      <text>1: +2 attacco</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr014.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Tisifone </name>
+      <text>1: +2 Difesa</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr015.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Morgana </name>
+      <text>4: +8 Attacco</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>4/5</pt>
+        <type>Personaggio Argento Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr016.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Delfino </name>
+      <text>2: sfida 1 personaggio di bronzo o d'argento del gruppo suo avversario a tua scelta</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr017.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Eel Medusa </name>
+      <text>3: scarta il luogo di bronzo da lui attaccato</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>1/2</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr018.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Serpente del mare </name>
+      <text>1: +2 attacco</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/2</pt>
+        <type>Personaggio Bronzo Saga di Morgana</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr019.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Andromeda Nero </name>
+      <text>3: Cerca nel tuo futuro 1 tecnica della Saga degli Oscuri</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>2/4</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr020.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cigno Nero </name>
+      <text>3: Annulla 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>5/1</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr021.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Django </name>
+      <text>1: +2 difesa</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr022.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Dragone Nero </name>
+      <text>3: Annulla 1 personaggio di bronzo o d'argento del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr023.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Guerriero Nero </name>
+      <text>Limitazione: a questo personaggio puoi assegnare solo tecniche di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr024.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Guilty </name>
+      <text>3: sfida 1 personaggio di bronzo o d'argento in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/3</pt>
+        <type>Personaggio Argento Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr025.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Pegasus Nero </name>
+      <text>2: Intervento</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>3/3</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr026.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Phoenix </name>
+      <text>1: cerca 1 personaggio della Saga degli Oscuri nel tuo futuro</text>
+      <prop>
+        <cmc>3</cmc>
+        <pt>4/2</pt>
+        <type>Personaggio Bronzo Saga degli Oscuri</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr027.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Benam </name>
+      <text>1: + 4 attacco se nel suo gruppo c'è almeno 1 personaggio della saga di Athena</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga d'Acciaio</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr028.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Lear </name>
+      <text>1: + 4 difesa se nel suo gruppo c'è almeno 1 personaggio della saga di Athena</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga d'Acciaio</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr029.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Shadir </name>
+      <text>2: potenza se nel suo gruppo c'è almeno 1 personaggio della saga di Athena</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga d'Acciaio</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr030.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Asher </name>
+      <text>1: +4 attacco se Lady Isabel è nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr031.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Aspides </name>
+      <text>1: +4 attacco se Lady Isabel è nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr032.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Ban </name>
+      <text>1: +4 attacco se Lady Isabel è nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr033.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Black il lupo </name>
+      <text>1: +4 attacco se Lady Isabel è nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr034.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Geki </name>
+      <text>1: +4 attacco se Lady Isabel è nel tuo presente</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>0/1</pt>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr035.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Agape </name>
+      <text>1: +3 attacco</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr036.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Argo </name>
+      <text>5: scarta 1 personaggio d'argento o di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <pt>5/4</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr037.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Damian </name>
+      <text>5: inganna 1 personaggio del gruppo suo avversario</text>
+      <prop>
+        <cmc>4</cmc>
+        <pt>4/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr038.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Eris </name>
+      <text>2: sfida 1 personaggio di bronzo o d'argento in gioco dell'avversario a tua scelta</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>2/6</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr039.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Vesta </name>
+      <text>1: + 2 difesa</text>
+      <prop>
+        <cmc>5</cmc>
+        <pt>5/5</pt>
+        <type>Personaggio Argento Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr040.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Docrates </name>
+      <text>4: scarta 1 personaggio di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>3/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr041.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Soldato del tempio </name>
+      <text>Limitazione: a questo personaggio puoi assegnare solo tecniche di bronzo senza capacità speciale</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga di Arles</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr042.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cassios </name>
+      <text>1: + 1 difesa</text>
+      <prop>
+        <cmc>1</cmc>
+        <pt>1/1</pt>
+        <type>Personaggio Bronzo Saga degli Adepti</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr043.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Demetrius </name>
+      <text>1: + 2 difesa</text>
+      <prop>
+        <cmc>2</cmc>
+        <pt>2/1</pt>
+        <type>Personaggio Bronzo Saga degli Adepti</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr044.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Cosmo divino</name>
+      <text>0: vale 1 cosmo</text>
+      <prop>
+        <cmc>0</cmc>
+        <type>Fato Divino Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/oro/sr045.jpg">oro</set>
+    </card>
+    <card>
+      <name>[CDZ] Crystal </name>
+      <text>1: annulla 1 tecnica di bronzo del gruppo suo avversario</text>
+      <prop>
+        <cmc>3</cmc>
+        <type>Personaggio Bronzo Saga di Athena</type>
+        <maintype>Personaggio</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp001.jpg">promo</set>
+    </card>
+    <card>
+      <name>[CDZ] Cure ospedaliere</name>
+      <text>1: sa hai il luogo "Nuova Luxor, l'ospedale" in gioco, evita di scartare alla fine del combattimento 1 tuo personaggio di bronzo che viene vinto. Ponilo nel presente nella zona riservata ai personaggi</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp002.jpg">promo</set>
+    </card>
+    <card>
+      <name>[CDZ] Disfatta divina</name>
+      <text>3: scarta 1 carta fato o tecnica o luogo nel presente dell'avversario che rigenera o consuma o vale Cosmo</text>
+      <prop>
+        <cmc>5</cmc>
+        <type>Fato Divino Saga di Arles</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp003.jpg">promo</set>
+    </card>
+    <card>
+      <name>[CDZ] Vittoria bronzea</name>
+      <text>1: annulla la capacità speciale di 1 carta del tuo avversario che ha annullato o azzerato o scartato 1 tua carta di bronzo</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Fato Bronzo Saga di Athena</type>
+        <maintype>Fato</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp004.jpg">promo</set>
+    </card>
+    <card>
+      <name>[CDZ] potere del male</name>
+      <text>3 o Arles: quando assegni questa tecnica puoi giocare immediatamente dalla tua mano, azzerando il costo di giocata, 1 tuo personaggio con lo stesso nome di 1 presente nel gruppo avversario</text>
+      <prop>
+        <cmc>6</cmc>
+        <type>Tecnica Oro Saga di Arles</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp005.jpg">promo</set>
+    </card>
+    <card>
+      <name>[CDZ] Superaddestrato</name>
+      <text>3 o personaggi di bronzo: cumulabile</text>
+      <prop>
+        <cmc>1</cmc>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
+        <maintype>Tecnica</maintype>
+      </prop>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/promo/cp006.jpg">promo</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>I Cavalieri Dello Zodiaco - Mazzo Di Arles</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="[CDZ] Cosmo"/>
+        <card number="1" name="[CDZ] Aggiramento"/>
+        <card number="1" name="[CDZ] Anticipazione argentea"/>
+        <card number="1" name="[CDZ] Arena del tempio"/>
+        <card number="1" name="[CDZ] Argetti"/>
+        <card number="1" name="[CDZ] Arles"/>
+        <card number="1" name="[CDZ] Aura manifesta"/>
+        <card number="1" name="[CDZ] Blocco a mano"/>
+        <card number="1" name="[CDZ] Blocco avanzato"/>
+        <card number="1" name="[CDZ] Blocco centrale"/>
+        <card number="1" name="[CDZ] Blocco con scudo"/>
+        <card number="1" name="[CDZ] Blocco laterale"/>
+        <card number="1" name="[CDZ] Calcio"/>
+        <card number="1" name="[CDZ] Calcio laterale"/>
+        <card number="2" name="[CDZ] Cassios"/>
+        <card number="1" name="[CDZ] Cento jabs"/>
+        <card number="1" name="[CDZ] Cobra incantatore"/>
+        <card number="1" name="[CDZ] Contrattacco"/>
+        <card number="1" name="[CDZ] Cornexolos"/>
+        <card number="1" name="[CDZ] Coscienza divina"/>
+        <card number="1" name="[CDZ] Deflagrazione dell'aura"/>
+        <card number="1" name="[CDZ] Deviata di un pugno"/>
+        <card number="1" name="[CDZ] Difesa estrema"/>
+        <card number="1" name="[CDZ] Docrates"/>
+        <card number="1" name="[CDZ] Esperienza bronzea"/>
+        <card number="1" name="[CDZ] Fedeli ad Arles"/>
+        <card number="1" name="[CDZ] Il centro ricerche"/>
+        <card number="1" name="[CDZ] Il dubbio"/>
+        <card number="1" name="[CDZ] Illusione del demone"/>
+        <card number="1" name="[CDZ] Lama psionica"/>
+        <card number="1" name="[CDZ] Movimenti rapidi"/>
+        <card number="2" name="[CDZ] Multipla difesa"/>
+        <card number="1" name="[CDZ] Nuova luxor, il centro"/>
+        <card number="1" name="[CDZ] Nuova luxor, il porto"/>
+        <card number="1" name="[CDZ] Nuova luxor, l'ospedale"/>
+        <card number="1" name="[CDZ] Palazzo dei tornei"/>
+        <card number="1" name="[CDZ] Pugno"/>
+        <card number="1" name="[CDZ] Pugno devastante"/>
+        <card number="2" name="[CDZ] Pugno distruttore"/>
+        <card number="1" name="[CDZ] Pugno fulmineo"/>
+        <card number="2" name="[CDZ] Saltius"/>
+        <card number="1" name="[CDZ] Schermatura psionica"/>
+        <card number="2" name="[CDZ] Scudo di eracle"/>
+        <card number="1" name="[CDZ] Superiorità bronzea"/>
+        <card number="1" name="[CDZ] Tempesta metallica"/>
+        <card number="1" name="[CDZ] Tisifone"/>
+    </zone>
+</cockatrice_deck>
