@@ -751,7 +751,7 @@
       <prop>
         <cmc>1</cmc>
         <pt>1/0</pt>
-        <type>Tecnica Divino Saga degli Adepti</type>
+        <type>Tecnica Bronzo Saga degli Adepti</type>
         <maintype>Tecnica</maintype>
       </prop>
       <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab60.jpg">base</set>
@@ -2251,7 +2251,7 @@
         <type>Tecnica Bronzo Saga degli Adepti</type>
         <maintype>Tecnica</maintype>
       </prop>
-      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab05.jpg">base</set>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab04.jpg">base</set>
     </card>
     <card>
       <name>[CDZ] Drago nascente</name>
@@ -2351,7 +2351,7 @@
       <text>1: + 2 attacco ai tuoi personaggi della Saga di Athena se difendono questo luogo</text>
       <prop>
         <cmc>3</cmc>
-        <type>Luogo Divino Saga di Athena</type>
+        <type>Luogo Bronzo Saga di Athena</type>
         <maintype>Luogo</maintype>
       </prop>
       <set picurl="https://gamescards.altervista.org/saint-seiya/base/luoghi15.jpg">base</set>
@@ -2632,7 +2632,7 @@
         <type>Tecnica Bronzo Saga degli Adepti</type>
         <maintype>Tecnica</maintype>
       </prop>
-      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab04.jpg">base</set>
+      <set picurl="https://gamescards.altervista.org/saint-seiya/base/tecnicab05.jpg">base</set>
     </card>
     <card>
       <name>[CDZ] Esperienza bronzea</name>
@@ -3968,7 +3968,7 @@
       <set picurl="https://gamescards.altervista.org/saint-seiya/oro/cr020.jpg">oro</set>
     </card>
     <card>
-      <name>[CDZ] Fossa dei Morti</name>
+      <name>[CDZ] Fossa dei dannati</name>
       <text>5: +20 attacco a 1 tuo personaggio e +10 attacco a 1 personaggio dell' avversario che combattono in questo luogo</text>
       <prop>
         <cmc>5</cmc>
@@ -4848,3 +4848,4 @@
     </card>
   </cards>
 </cockatrice_carddatabase>
+
